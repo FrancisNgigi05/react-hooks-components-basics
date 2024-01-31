@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "test": "jest"
+    "test": "jest",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
